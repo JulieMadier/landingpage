@@ -1,0 +1,15 @@
+.button-pink {
+  background-color: #FF97C1;
+  padding: 10px 15px;
+  border-radius: 10px;
+  opacity: 0.8;
+  color: white;
+  font-weight: bold;
+  font-family: "Lora";
+  font-size: 18px;
+}
+
+.button-pink:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
